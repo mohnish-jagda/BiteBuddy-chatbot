@@ -19,7 +19,8 @@ This AI-powered chatbot allows users to place and track food orders on **Telegra
 - **NLP**: Dialogflow  
 - **Backend**: FastAPI (Python)  
 - **Messaging**: Telegram Bot API  
-- **Database**: MySQL  
+- **Database**: MySQL
+- **Tunneling**: ngrok
 
 ---
 
