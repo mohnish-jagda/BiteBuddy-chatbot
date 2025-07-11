@@ -36,11 +36,11 @@ This AI-powered chatbot allows users to place and track food orders on **Telegra
 ## 📸 Screenshots
 
 - 📋 Orders
-![Add order](./screenshots/add-order.png)
-![Remove order](./screenshots/remove-order.png)
+![Add order](./screenshots/add-order.jpg)
+![Remove order](./screenshots/remove-order.jpg)
 
 - 🔍 Tracking
-![Order track](./screenshots/track-order.png)
+![Order track](./screenshots/track-order.jpg)
 
 ---
 
